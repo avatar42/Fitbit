@@ -25,10 +25,12 @@ import org.apache.poi.ss.usermodel.Row;
 import org.jsoup.helper.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 /**
  * Class for converting MyFitnessDiary exports to importable csv
+ * 
  * @author dea
- *
+ * 
  */
 public class XlstoCSV {
 	protected final Logger log = LoggerFactory.getLogger(getClass());
@@ -326,6 +328,13 @@ public class XlstoCSV {
 		}
 	}
 
+	/**
+	 * Convert the Day Parts Report xls to a csv usable by FitnessSyncer and
+	 * such
+	 * 
+	 * @param inputFile
+	 * @param outputFile
+	 */
 	public void dayPartsExcelReport(File inputFile, File outputFile) {
 		try (FileOutputStream fos = new FileOutputStream(outputFile);
 

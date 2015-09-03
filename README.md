@@ -13,3 +13,5 @@ DATE_OF_FIRST_JOURNAL with date of oldest journal entry.
 as in java -jar target/FitbitReader.jar bob@gmail.com P@$$w0rd 8/31/2013
 
 java -jar target/FitbitReader.jar YOUR_LOGIN YOUR_PASSOWRD DATE_OF_FIRST_JOURNAL
+
+Update 9/2/2015 Fitbit removed the tab but the URL is still there so you can still get your data if you hurry.
