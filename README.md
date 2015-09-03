@@ -1,5 +1,5 @@
 # Fitbit
-A quick and dirty program fro getting your data downloaded before the Aug 27th shutdown of custom trackers and journals
+A quick and dirty program for getting your data down loaded before the Aug 27th shutdown of custom trackers and journals
 
 Update Fitbit has extended the deadline to Monday Aug 31th.
 I've stuck a jar file at https://drive.google.com/open?id=0B0zp3DlgiRDQNXlNX1VnMG9YZFE for a those non programmers still struggling to get their data off Fitbit before Monday. Once Fitbit removes journals I'll be deleting the jar
