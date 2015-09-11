@@ -1,4 +1,3 @@
-/target/
 /dayPartsExcelReport.xls
 /My Daily Journal on Fitbit.csv
 /output.csv
@@ -11,3 +10,4 @@
 /tmp
 /tmp.html
 /tmp.js
+/target/
